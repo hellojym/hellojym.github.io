@@ -1,10 +1,10 @@
 # Site settings
-title: 贾元敏的博客
-SEOTitle: 贾元敏的博客 | Jym Blog
+title: JIM'BLog
+SEOTitle: JIM的博客 | JIM Blog
 header-img: img/post-bg-desk.jpg
 email: buaajym@gmail.com
 description: "Just Do it"
-keyword: "BY, Jymoon, 贾元敏的博客, 贾元敏, jym, Android, 开发"
+keyword: "JIM, Jymoon,blog, Android, 开发"
 url: "http://hellojym.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hellojym/hellojym.github.io.git" # you code repository
